@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CSE App</string>
+    <string name="title_activity_index">Index</string>
+    <string name="title_activity_member__firms">Member_Firms</string>
+    <string name="title_activity_news__alerts">News_Alerts</string>
+    <string name="help">First The Customer has to creat a account in CSE</string>
+</resources>

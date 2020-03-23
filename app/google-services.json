@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "476245798914",
+    "firebase_url": "https://cseapp-72db0.firebaseio.com",
+    "project_id": "cseapp-72db0",
+    "storage_bucket": "cseapp-72db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476245798914:android:cd74a0f9188f037b",
+        "android_client_info": {
+          "package_name": "com.cse.cseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476245798914-4so79uh8ehi3g4f62obcgqq4dt1j8v8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4T6X_iOQOEgaI7Ryj4wqerJYu2yFxlS4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
